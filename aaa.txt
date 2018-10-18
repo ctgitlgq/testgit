@@ -1,3 +1,4 @@
 git
 BBBBBB
 this my edit hot_fix option edit by master
+this my edit hot_fix option edit by hot_fix
